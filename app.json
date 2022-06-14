@@ -1,8 +1,8 @@
 {
-  "name": "Efsane Music",
+  "name": "Myt Music",
   "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by mezarc-m-zik.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": ".https://github.com/Ali930ben/mezarc-m-zik/EfsaneMusic",
+  "repository": ".https://github.com/01-Meyitzade-01/Myt-mzk-bot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -39,7 +39,7 @@
     "DURATION_LIMIT": {
       "description": "İndirmeler için en fazla ses süresi sınırı (minutes).",
       "required": true,
-      "value": "55"
+      "value": "60"
     }
   }
 }
