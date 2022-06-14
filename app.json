@@ -8,33 +8,38 @@
     "SESSION_NAME": {
       "description": "Pyrogram oturum dizesi (Replit.com)",
       "required": true
+      "value":  "BABqhC8y13OWVscqiOHB-Zse6mvEHROKK_rT2PenD7vsHUq_bQOPg78iFFbmQVvckqaAsD2KvX87H_U0O7NdzRHYbg-UDm7YhMXOfEevZrd5qhcjWUKxhfU7_iNXBj1JN9HeuhkHGvWe-9Xmw5YGMXvwXgNkS-Un85CDaBHTSdta5Z8yHr05MPJVr9wq1LlkRDv7CjSK4NsVkB1Bfh6LlORlYNW8_uD7OsVJ_pf2eD8Y8-mzPMz0FEVp3pfk9P5PYjvlmTaVRST14Q6YUCzSGtLqYfzmSBQLPyjMn8qLRaEMt4knncGiKCoFkIDsJlsvjNwqXyB525Bg1wI53lMIYjWqAAAAAFsLb9EA"
     },
     "BOT_TOKEN": {
       "description": "Bir bot belirteci @botfather ile alınız",
       "required": true
+      "value"  "5211551773:AAEGPgnO6C-1GDiwn-R6QY4gl6JW_OOaROE"
     },
     "BOT_NAME": {
       "description": "Müzik Oynatıcı Bot Adınız.",
       "required": false,
-      "value": ""
+      "value": "MytMüzik"
     },
     "BOT_USARNAME": {
       "description": "Müzik Oynatıcı Bot Kullanıcı İsmi @ olmadan yazınız.",
       "required": true,
-      "value": ""
+      "value": "Myt_Music_Bot"
      
     },
     "API_ID": {
       "description": "my.telegram'dan uygulama kimliği.org/apps",
       "required": true
+      "value":  "3939406"
     },
     "API_HASH": {
       "description": "My.telegram'dan uygulama apı-hash.org/apps",
       "required": true
+      "value":  "e11d0eaec136b1047974ab098041e9f2"
     },
     "SUDO_USERS": {
       "description": "Her yerde yönetici olarak sayılan kullanıcı kimliklerinin listesi (Müzik hesabınının id'si).",
       "required": true
+      "value":  "2028948832"
     },
     "DURATION_LIMIT": {
       "description": "İndirmeler için en fazla ses süresi sınırı (minutes).",
