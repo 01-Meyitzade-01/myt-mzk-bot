@@ -1,8 +1,8 @@
 {
   "name": "Myt Music",
-  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by mezarc-m-zik.",
+  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by myt müzik.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": ".https://github.com/01-Meyitzade-01/Myt-mzk-bot",
+  "repository": ".https://github.com/01-Meyitzade-01/myt-mzk-bot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
